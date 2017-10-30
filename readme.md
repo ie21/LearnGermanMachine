@@ -7,6 +7,8 @@
 - keep score of testing sessions 
 - monitor and analyze learning score progress (or regress :)) 
 
+- gamification via Javascript? 
+
 **Test word and phrase in:**
 - German
 - English
